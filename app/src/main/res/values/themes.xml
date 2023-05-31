@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.ListedDash" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorSecondary">@color/card</item>
+        <item name="colorPrimaryDark">@color/card</item>
+
+    </style>
+
+    <style name="Theme.ListedDash" parent="Base.Theme.ListedDash" />
+
+
+</resources>
